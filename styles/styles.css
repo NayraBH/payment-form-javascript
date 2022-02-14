@@ -1,0 +1,12 @@
+.fab {
+    font-size: 20px;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+.input-error {
+    border: 2px solid red;
+    border-radius: 3px;
+}
